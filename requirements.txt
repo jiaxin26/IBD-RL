@@ -1,0 +1,15 @@
+# Core
+gymnasium>=0.29
+
+# RL
+stable-baselines3>=2.1
+
+# DMControl Suite
+dm_control>=1.0
+mujoco>=3.0
+shimmy>=1.0     # optional: dm_control <-> gymnasium adapter
+
+# Plotting (optional)
+matplotlib>=3.7
+pandas>=2.0
+seaborn>=0.12
