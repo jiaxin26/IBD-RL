@@ -232,7 +232,7 @@ The `experiments/` folder also contains scripts for supplementary studies: parti
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{liu2026discoveringcontrolinterventionalboundary,
+@misc{liu2026ibd,
       title={Discovering What You Can Control: Interventional Boundary Discovery for Reinforcement Learning}, 
       author={Jiaxin Liu and Anzhe Cheng and Paul Bogdan},
       year={2026},
